@@ -1,4 +1,4 @@
-<img width="1886" height="855" alt="image" src="https://github.com/user-attachments/assets/79bf473f-1934-43b3-8946-b071fc9d761b" /># Hito 1: Repositorio de prácticas y definición del proyecto
+# Hito 1: Repositorio de prácticas y definición del proyecto
 
 Para estas prácticas, se va a usar la aplicación que desarrolle hace unos meses como TFG del Grado de Ingeniería Informática de la Universidad de Cantabria.
 
@@ -35,3 +35,4 @@ nube permite además escalar fácilmente recursos según la demanda y asegurar c
 ## Fork del repositorio del profesor
 
 ![Fork](/imagenes/Fork.PNG)
+
