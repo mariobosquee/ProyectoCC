@@ -1,4 +1,4 @@
-<img width="1431" height="673" alt="image" src="https://github.com/user-attachments/assets/55c0d881-3343-4df8-a7b4-dd67a189e784" /># Hito 2: Integración continua
+# Hito 2: Integración continua
 
 En este hito se ha llevado a cabo el desarrollo de unos test para verificar el correcto funcionamiento de la aplicación. Además, con el objetivo de tener una integración continua del proyecto, se usará GitHub Actions para poder pasar los test automáticamente.
 
@@ -22,8 +22,8 @@ Para conectar el proyecto Django con GitHub Actions y habilitar la integración 
 
 Además, para que los tests y el entorno de GitHub Actions funcionaran correctamente con las dependencias del proyecto, se generó el archivo requirements.txt﻿. Este documento contiene todas las librerías usadas y sus versiones exactas, permitiendo que el runner de GitHub Actions instale el entorno idéntico al de desarrollo. Para crear este archivo, se ejecutó el comando pip freeze > requirements.txt﻿ desde el terminal de Visual Studio Code, lo que volcó automáticamente la lista de paquetes instalados en el entorno virtual en el fichero.
 
-![Requirements(/imagenes/Dependencias.png)
+![Requirements](/imagenes/Dependencias.png)
 
 Una vez seguidos estos pasos, cada vez que se haga un commit se pasaran los test que se han diseñado. De esta forma nos aseguramos de que la aplicación sigue funcionando de manera correcta cuando se realicen cambios en la misma.
 
-![Integración(/imagenes/Integracion.png)
+![Integración](/imagenes/Integracion.png)
