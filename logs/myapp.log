@@ -1,0 +1,18 @@
+Watching for file changes with StatReloader
+Petición a generar_grafica_apilada: {'comunidades[]': 'Aragón', 'anio': '2014', 'color_sexo': 'false', 'solo_mortales': 'false'}
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Petición a generar_grafica_apilada: {'anio': '', 'color_sexo': 'false', 'solo_mortales': 'false'}
+Falta selección: comunidades=[], provincias=[], anio=
+Not Found: /favicon.ico
+Not Found: /login/
+Not Found: /logout/
+Not Found: /logout/
+Not Found: /login/
+Not Found: /login/
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /login/
+Not Found: /favicon.ico
+Watching for file changes with StatReloader

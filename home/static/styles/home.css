@@ -550,3 +550,20 @@ input[type="text"] {
 .switch-label input:checked + .switch-slider::before {
     transform: translateX(16px);
 }
+
+.btn-login {
+    background: #159A9C;
+    color: #fff;
+    padding: 10px 24px;
+    border: none;
+    border-radius: 22px;
+    font-weight: 600;
+    text-decoration: none;
+    box-shadow: 0 2px 8px #159a9c22;
+    transition: background 0.18s;
+}
+
+.btn-login:hover {
+    background: #117a7c;
+    color: #fff;
+}
