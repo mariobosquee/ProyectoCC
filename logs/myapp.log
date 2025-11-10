@@ -23,3 +23,7 @@ Not Found: /favicon.ico
 Not Found: /favicon.ico
 Petición a generar_grafica_apilada: {'comunidades[]': 'Andalucía', 'anio': '2013', 'color_sexo': 'true', 'solo_mortales': 'false'}
 Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2013
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Petición a generar_grafica_apilada: {'comunidades[]': 'Andalucía', 'anio': '2013', 'color_sexo': 'true', 'solo_mortales': 'false'}
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2013
