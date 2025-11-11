@@ -2335,3 +2335,4 @@ No se ha seleccionado año: anio=
 Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
 No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
