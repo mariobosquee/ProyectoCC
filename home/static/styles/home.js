@@ -199,22 +199,25 @@ document.addEventListener('DOMContentLoaded', function() {
         const provincias = Array.from(document.querySelectorAll('#prov-options input[type="checkbox"]:checked')).map(cb => cb.value);
         const anio = document.getElementById('anio').value;
 
-        const formData = new FormData();
-        if (comunidades.length > 0) {
-        comunidades.forEach(c => formData.append('comunidades[]', c));
-        } else {
-        provincias.forEach(p => formData.append('provincias[]', p));
-        }
-        formData.append('anio', anio);
-        formData.append('color_sexo', colorSexoSwitch.checked ? 'true' : 'false');
-        formData.append('solo_mortales', mortalSwitch.checked ? 'true' : 'false');
+        
 
         const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+        const data = {
+            comunidades: comunidades,
+            provincias: provincias,
+            anio: anio,
+            colorsexo: colorSexoSwitch.checked ? true : false,
+            solomortales: mortalSwitch.checked ? true : false
+        };
         fetch('/generar_grafica_apilada/', {
-        method: 'POST',
-        body: formData,
-        headers: { 'X-CSRFToken': csrftoken }
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': csrftoken
+            },
+            body: JSON.stringify(data)
         })
+
         .then(response => response.json())
         .then(data => {
         const container = document.getElementById('grafica-container');
@@ -326,16 +329,20 @@ document.addEventListener('DOMContentLoaded', function() {
         const anioInicio = document.getElementById('anio-inicio').value;
         const anioFin = document.getElementById('anio-fin').value;
 
-        const formData = new FormData();
-        nacionalidades.forEach(nac => formData.append('nacionalidades[]', nac)); 
-        formData.append('anio_inicio', anioInicio);
-        formData.append('anio_fin', anioFin);
-
         const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+        const data = {
+            nacionalidades: nacionalidades, 
+            anioinicio: anioInicio,                      
+            aniofin: anioFin                      
+        };
+
         fetch('/generar_grafica_circular/', {
             method: 'POST',
-            body: formData,
-            headers: { 'X-CSRFToken': csrftoken }
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': csrftoken 
+            },
+            body: JSON.stringify(data)
         })
         .then(response => response.json())
         .then(data => {
@@ -369,17 +376,21 @@ document.addEventListener('DOMContentLoaded', function() {
     const generateGraficaLineas = document.getElementById('btn-generar-grafica-lineas');
     generateGraficaLineas.addEventListener('click', function() {
         const anio = document.getElementById('anio-lineas').value;
-        const soloMortales = document.getElementById('mortal-switch-lineas').checked;
-
-        const formData = new FormData();
-        formData.append('anio', anio);
-        formData.append('solo_mortales', soloMortales ? 'true' : 'false');
+        const soloMortales = document.getElementById('mortal-switch-lineas');
 
         const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+        const data = {
+            anio: anio,
+            solomortales: soloMortales.checked ? true : false
+        };
+
         fetch('/generar_grafica_lineas/', {
             method: 'POST',
-            body: formData,
-            headers: { 'X-CSRFToken': csrftoken }
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': csrftoken 
+            },
+            body: JSON.stringify(data)
         })
         .then(response => response.json())
         .then(data => {
@@ -421,20 +432,24 @@ document.addEventListener('DOMContentLoaded', function() {
     // Botón para generar el diagrama de dispersión
     const generateDiagramaDispersion = document.getElementById('btn-generar-diagrama-dispersion');
     generateDiagramaDispersion.addEventListener('click', function() {
-        const soloMortales = document.getElementById('mortal-switch-dispersion').checked;
-        const filtraSexo = document.getElementById('color-sexo-switch-dispersion').checked;
-        const linea = document.getElementById('linea-dispersion').checked;
-
-        const formData = new FormData();
-        formData.append('solo_mortales', soloMortales ? 'true' : 'false');
-        formData.append('color_sexo', filtraSexo ? 'true' : 'false');
-        formData.append('mostrar_linea', linea ? 'true' : 'false');
+        const soloMortales = document.getElementById('mortal-switch-dispersion');
+        const filtraSexo = document.getElementById('color-sexo-switch-dispersion');
+        const linea = document.getElementById('linea-dispersion');
 
         const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+        const data = {
+            colorsexo: filtraSexo.checked ? true : false,       
+            solomortales: soloMortales.checked ? true : false,
+            mostrarlinea: linea.checked ? true : false 
+        };
+
         fetch('/generar_diagrama_dispersion/', {
             method: 'POST',
-            body: formData,
-            headers: { 'X-CSRFToken': csrftoken }
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': csrftoken 
+            },
+            body: JSON.stringify(data)
         })
         .then(response => response.json())
         .then(data => {
@@ -550,7 +565,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Botón para generar el mapa
     const generateMapa = document.getElementById('btn-generar-mapa');
     generateMapa.addEventListener('click', function() {
-        const soloMortales = document.getElementById('mortal-switch-mapa').checked;
+        const soloMortales = document.getElementById('mortal-switch-mapa');
 
         const lugarCheckboxes = document.querySelectorAll('#lugar-options input[type=checkbox]');
         let lugaresSeleccionados = [];
@@ -560,15 +575,19 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
 
-        const formData = new FormData();
-        formData.append('solo_mortales', soloMortales ? 'true' : 'false');
-        lugaresSeleccionados.forEach(lugar => formData.append('lugares[]', lugar));
-
         const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+        const data = {
+            solomortales: soloMortales.checked ? true : false,
+            lugares: lugaresSeleccionados
+        };
+
         fetch('/generar_mapa/', {
             method: 'POST',
-            body: formData,
-            headers: { 'X-CSRFToken': csrftoken }
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': csrftoken
+            },
+            body: JSON.stringify(data)
         })
         .then(response => response.json())
         .then(data => {
@@ -684,7 +703,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Botón para generar el histograma
     const generateHistograma = document.getElementById('btn-generar-histograma');
     generateHistograma.addEventListener('click', function() {
-        const soloMortales = document.getElementById('mortal-switch-histograma').checked;
+        const soloMortales = document.getElementById('mortal-switch-histograma');
 
         const diaCheckboxes = document.querySelectorAll('#dia-options input[type=checkbox]');
         let diasSeleccionados = [];
@@ -694,15 +713,19 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
 
-        const formData = new FormData();
-        formData.append('solo_mortales', soloMortales ? 'true' : 'false');
-        diasSeleccionados.forEach(dia => formData.append('dias[]', dia));
-
         const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+        const data = {
+            solomortales: soloMortales.checked ? true : false,
+            dias: diasSeleccionados
+        };
+
         fetch('/generar_histograma/', {
             method: 'POST',
-            body: formData,
-            headers: { 'X-CSRFToken': csrftoken }
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': csrftoken
+            },
+            body: JSON.stringify(data)
         })
         .then(response => response.json())
         .then(data => {
@@ -804,19 +827,22 @@ document.addEventListener('DOMContentLoaded', function() {
     // Botón para generar el radar
     const generateRadar = document.getElementById('btn-generar-radar');
     generateRadar.addEventListener('click', function() {
-        let filtroSeleccionado = Array.from(filtroCheckboxes).find(cb => cb.checked);
+        let filtroSeleccionado = Array.from(filtroCheckboxes).find(cb => cb.checked)?.value;
         if (!filtroSeleccionado) {
             return;
         }
 
-        const formData = new FormData();
-        formData.append('filtro', filtroSeleccionado.value);
-
         const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+        const data = {
+            filtro: filtroSeleccionado ?? null, 
+        };
         fetch('/generar_radar/', {
             method: 'POST',
-            body: formData,
-            headers: { 'X-CSRFToken': csrftoken }
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': csrftoken
+            },
+            body: JSON.stringify(data)
         })
         .then(response => response.json())
         .then(data => {
@@ -1151,20 +1177,23 @@ document.addEventListener('DOMContentLoaded', function() {
         const edad = document.getElementById('edad-caso').value.trim();
 
 
-        const formData = new FormData();
-        if (actividadChecked)    formData.append('actividad', actividadChecked.value);
-        if (localizacionChecked) formData.append('localizacion', localizacionChecked.value);
-        if (zonavigiladaChecked) formData.append('zonavigilada', zonavigiladaChecked.value);
-        if (riesgoChecked)       formData.append('factorriesgo', riesgoChecked.value);
-        if (intervencionChecked) formData.append('intervencion', intervencionChecked.value);
-        if (edad)                formData.append('edad', edad);
-
-
         const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+        const data = {
+            actividad: actividadChecked,
+            localizacion: localizacionChecked,
+            zonavigilada: zonavigiladaChecked,
+            factorriesgo: riesgoChecked,
+            intervencion: intervencionChecked,
+            edad: edad
+        };
+
         fetch('/comparativa_sklearn/', {
             method: 'POST',
-            body: formData,
-            headers: { 'X-CSRFToken': csrftoken }
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': csrftoken
+            },
+            body: JSON.stringify(data)
         })
         .then(response => response.json())
         .then(data => {
@@ -1233,15 +1262,19 @@ document.addEventListener('DOMContentLoaded', function() {
         const anioInicio = document.getElementById('anio-inicio-hotspots').value;
         const anioFin = document.getElementById('anio-fin-hotspots').value;
 
-        const formData = new FormData();
-        formData.append('anio-inicio-hotspots', anioInicio);
-        formData.append('anio-fin-hotspots', anioFin);
-
+        console.log(anioInicio, anioFin);
         const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+        const data = {
+            "anio-inicio-hotspots": anioInicio,
+            "anio-fin-hotspots": anioFin
+        };
         fetch('/generar_mapa_hotspots/', {
             method: 'POST',
-            body: formData,
-            headers: { 'X-CSRFToken': csrftoken }
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': csrftoken
+            },
+            body: JSON.stringify(data)
         })
         .then(response => response.json())
         .then(data => {
@@ -1273,15 +1306,20 @@ document.addEventListener('DOMContentLoaded', function() {
         const anioInicio = document.getElementById('anio-inicio-kmeans').value;
         const anioFin = document.getElementById('anio-fin-kmeans').value;
 
-        const formData = new FormData();
-        formData.append('anio-inicio-kmeans', anioInicio);
-        formData.append('anio-fin-kmeans', anioFin);
-
         const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+
+        const data = {
+            "anio-inicio": anioInicio,
+            "anio-fin": anioFin
+        };
+
         fetch('/generar_kmeans/', {
             method: 'POST',
-            body: formData,
-            headers: { 'X-CSRFToken': csrftoken }
+            headers: {
+                'Content-Type': 'application/json',
+                'X-CSRFToken': csrftoken
+            },
+            body: JSON.stringify(data)
         })
         .then(response => response.json())
         .then(data => {
@@ -1378,17 +1416,18 @@ document.addEventListener('DOMContentLoaded', function() {
             return;
         }
 
-        // Preparar datos para enviar
-        const payload = { variables: selectedVars };
-
         const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+        const data = {
+            filtro: selectedVars
+        };
+
         fetch('/generar_tree/', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
                 'X-CSRFToken': csrftoken
             },
-            body: JSON.stringify(payload)
+            body: JSON.stringify(data)
         })
         .then(response => response.json())
         .then(data => {

@@ -27,3 +27,2310 @@ Watching for file changes with StatReloader
 Not Found: /favicon.ico
 Petición a generar_grafica_apilada: {'comunidades[]': 'Andalucía', 'anio': '2013', 'color_sexo': 'true', 'solo_mortales': 'false'}
 Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2013
+Petición a generar_grafica_apilada: {'comunidades[]': 'Andalucía', 'anio': '2013', 'color_sexo': 'true', 'solo_mortales': 'false'}
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2013
+Petición a generar_grafica_apilada: {'comunidades[]': 'Andalucía', 'anio': '2014', 'color_sexo': 'true', 'solo_mortales': 'false'}
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Petición a generar_grafica_apilada: {'comunidades[]': 'Andalucía', 'anio': '2014', 'color_sexo': 'true', 'solo_mortales': 'false'}
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Not Found: /favicon.ico
+Petición a generar_grafica_apilada: {'comunidades[]': 'Andalucía', 'anio': '2014', 'color_sexo': 'true', 'solo_mortales': 'false'}
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Petición a generar_grafica_apilada: {'comunidades[]': 'Andalucía', 'anio': '2014', 'color_sexo': 'true', 'solo_mortales': 'false'}
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Petición a generar_grafica_apilada: {'comunidades[]': 'Andalucía', 'anio': '2014', 'color_sexo': 'true', 'solo_mortales': 'false'}
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Todas', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Alemania', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Alemania', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Alemania', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Alemania', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_apilada: {'comunidades[]': 'Andalucía', 'anio': '2014', 'color_sexo': 'true', 'solo_mortales': 'false'}
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Alemania', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Angola', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Angola', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Angola', 'anio_inicio': '2013', 'anio_fin': '2015'}
+No hay datos para filtros: filtro={'incidente__fecha__year__gte': '2013', 'incidente__fecha__year__lte': '2015', 'nacionalidad__nombrenacionalidad__in': ['Angola']}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Angola', 'anio_inicio': '2013', 'anio_fin': '2015'}
+No hay datos para filtros: filtro={'incidente__fecha__year__gte': '2013', 'incidente__fecha__year__lte': '2015', 'nacionalidad__nombrenacionalidad__in': ['Angola']}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Todas', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Todas', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Todas', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Alemania', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_circular: {'nacionalidades[]': 'Alemania', 'anio_inicio': '2013', 'anio_fin': '2015'}
+Petición a generar_grafica_apilada: {'comunidades[]': 'Andalucía', 'anio': '2014', 'color_sexo': 'true', 'solo_mortales': 'false'}
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Petición a generar_grafica_apilada: {'comunidades[]': 'Andalucía', 'anio': '2014', 'color_sexo': 'true', 'solo_mortales': 'false'}
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 25, in home_endpoint
+    return JsonResponse(resultado)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\http\response.py", line 744, in __init__
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: In order to allow non-dict objects to be serialized set the safe parameter to False.
+Not Found: /favicon.ico
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+Petición a generar_grafica_apilada: comunidades=['Andalucía'], provincias=[], anio=2014, color_sexo=False, solo_mortales=False
+1
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Petición a generar_grafica_circular: nacionalidades=['Todas'], anio_inicio=2013, anio_fin=2016
+Gráfica circular generada correctamente. Años: 2013 - 2016
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=False
+Gráfica de líneas generada correctamente. Año: 2015, Solo mortales: False
+Petición a generar_diagrama_dispersion: color_sexo=True, solo_mortales=True, mostrar_linea=False
+Diagrama de dispersión generado correctamente. Color sexo: True, Solo mortales: True, Mostrar línea: False
+Petición a generar_mapa: solo_mortales=False, lugares=['Todos']
+Error en generar_mapa: C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\data\shapefiles_provincias_espana_actualizado.shp: No such file or directory
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+Petición a generar_mapa: solo_mortales=False, lugares=['Todos']
+Mapa generado correctamente. Solo mortales: False, Lugares: ['Todos']
+Petición a generar_histograma: solo_mortales=False, dias=['Todos']
+Histograma generado correctamente. Solo mortales: False, Días: ['Todos']
+Petición a generar_radar: filtro=actividad
+Radar generado correctamente. Filtro: actividad
+Petición a comparativa_sklearn: actividad=Baño en reposo, localizacion=None, zonavigilada=None, factorriesgo=None, intervencion=None, edad=3
+Probabilidad de mortalidad calculada: 0.30416666666666664
+Petición a generar_mapa_hotspots: anio_inicio=2014, anio_fin=2017
+Mapa hotspots generado correctamente para años 2014-2017.
+Petición a generar_kmeans: anio_inicio=2014, anio_fin=2016, num_clusters=3
+Gráfico K-Means generado para período 2014-2016 con 3 clusters.
+Petición a generar_tree: ['deteccion_socorrista', 'mayor_65']
+Árbol de decisión generado exitosamente con variables: ['deteccion_socorrista', 'mayor_65']
+Petición a generar_grafica_apilada: comunidades=['Andalucía'], provincias=[], anio=2014, color_sexo=False, solo_mortales=False
+1
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Petición a generar_grafica_circular: nacionalidades=['Todas'], anio_inicio=2013, anio_fin=2016
+Gráfica circular generada correctamente. Años: 2013 - 2016
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\ahogamientos\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /generar_grafica_apilada/
+Not Found: /generar_grafica_apilada/
+Not Found: /generar_grafica_circular/
+Not Found: /generar_grafica_circular/
+Not Found: /generar_grafica_circular/
+Not Found: /generar_grafica_circular/
+Not Found: /generar_grafica_circular/
+Not Found: /favicon.ico
+Internal Server Error: /api/generar_grafica_apilada/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 20, in post
+    resultado = graficas.generar_grafica_apilada(**request.data)
+TypeError: generar_grafica_apilada() got an unexpected keyword argument 'comunidades[]'. Did you mean 'comunidades'?
+Internal Server Error: /api/generar_grafica_apilada/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 20, in post
+    resultado = graficas.generar_grafica_apilada(**request.data)
+TypeError: generar_grafica_apilada() got an unexpected keyword argument 'comunidades[]'. Did you mean 'comunidades'?
+Internal Server Error: /api/generar_grafica_apilada/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 20, in post
+    resultado = graficas.generar_grafica_apilada(**request.data)
+TypeError: generar_grafica_apilada() got an unexpected keyword argument 'comunidades[]'. Did you mean 'comunidades'?
+Watching for file changes with StatReloader
+Internal Server Error: /api/generar_grafica_apilada/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 20, in post
+    resultado = graficas.generar_grafica_apilada(**request.data)
+TypeError: generar_grafica_apilada() got an unexpected keyword argument 'comunidades[]'. Did you mean 'comunidades'?
+Not Found: /favicon.ico
+Internal Server Error: /api/generar_grafica_apilada/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 20, in post
+    resultado = graficas.generar_grafica_apilada(**request.data)
+TypeError: generar_grafica_apilada() missing 1 required positional argument: 'provincias'
+Not Found: /favicon.ico
+Internal Server Error: /api/generar_grafica_apilada/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 20, in post
+    resultado = graficas.generar_grafica_apilada(**request.data)
+TypeError: generar_grafica_apilada() missing 1 required positional argument: 'provincias'
+Internal Server Error: /api/generar_grafica_apilada/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 20, in post
+    resultado = graficas.generar_grafica_apilada(**request.data)
+TypeError: generar_grafica_apilada() missing 1 required positional argument: 'comunidades'
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /generar_grafica_apilada/
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /generar_grafica_apilada/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 20, in post
+    resultado = graficas.generar_grafica_apilada(**request.data)
+TypeError: generar_grafica_apilada() got an unexpected keyword argument 'comunidades[]'. Did you mean 'comunidades'?
+Not Found: /favicon.ico
+Internal Server Error: /generar_grafica_apilada/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 20, in post
+    resultado = graficas.generar_grafica_apilada(**request.data)
+TypeError: generar_grafica_apilada() got an unexpected keyword argument 'comunidades[]'. Did you mean 'comunidades'?
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /generar_grafica_circular/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 28, in post
+    resultado = graficas.generar_grafica_circular(**request.data)
+TypeError: generar_grafica_circular() got an unexpected keyword argument 'nacionalidades[]'. Did you mean 'nacionalidades'?
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2014, color_sexo=None, solo_mortales=None
+Falta selección: comunidades=[], provincias=[], anio=2014
+Internal Server Error: /generar_grafica_lineas/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 38, in post
+    resultado = graficas.generar_grafica_lineas(comunidades, provincias, anio, colorsexo, solomortales)
+TypeError: generar_grafica_lineas() takes 2 positional arguments but 5 were given
+Internal Server Error: /generar_diagrama_dispersion/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 43, in post
+    resultado = graficas.generar_diagrama_dispersion()
+TypeError: generar_diagrama_dispersion() missing 3 required positional arguments: 'color_sexo', 'solo_mortales', and 'mostrar_linea'
+Internal Server Error: /generar_diagrama_dispersion/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 43, in post
+    resultado = graficas.generar_diagrama_dispersion()
+TypeError: generar_diagrama_dispersion() missing 3 required positional arguments: 'color_sexo', 'solo_mortales', and 'mostrar_linea'
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2014, color_sexo=None, solo_mortales=None
+Falta selección: comunidades=[], provincias=[], anio=2014
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2014, color_sexo=None, solo_mortales=None
+Falta selección: comunidades=[], provincias=[], anio=2014
+Not Found: /favicon.ico
+Petición a generar_grafica_apilada: comunidades=Andalucía, provincias=[], anio=2014, color_sexo=None, solo_mortales=None
+1
+No hay datos para los filtros utilizados (sin color por sexo). Filtro: {'incidente__localidad__provincia__codccaa__in': [None, None, None, None, None, None, None, None, None], 'incidente__fecha__year': '2014'}
+Petición a generar_grafica_apilada: comunidades=Andalucía, provincias=[], anio=2017, color_sexo=None, solo_mortales=None
+1
+No hay datos para los filtros utilizados (sin color por sexo). Filtro: {'incidente__localidad__provincia__codccaa__in': [None, None, None, None, None, None, None, None, None], 'incidente__fecha__year': '2017'}
+Petición a generar_grafica_apilada: comunidades=Andalucía, provincias=[], anio=2017, color_sexo=None, solo_mortales=None
+1
+No hay datos para los filtros utilizados (sin color por sexo). Filtro: {'incidente__localidad__provincia__codccaa__in': [None, None, None, None, None, None, None, None, None], 'incidente__fecha__year': '2017'}
+Petición a generar_grafica_apilada: comunidades=Andalucía, provincias=[], anio=2017, color_sexo=None, solo_mortales=None
+1
+No hay datos para los filtros utilizados (sin color por sexo). Filtro: {'incidente__localidad__provincia__codccaa__in': [None, None, None, None, None, None, None, None, None], 'incidente__fecha__year': '2017'}
+Petición a generar_grafica_apilada: comunidades=Andalucía, provincias=[], anio=2017, color_sexo=None, solo_mortales=None
+1
+No hay datos para los filtros utilizados (sin color por sexo). Filtro: {'incidente__localidad__provincia__codccaa__in': [None, None, None, None, None, None, None, None, None], 'incidente__fecha__year': '2017'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=A Coruña, anio=, color_sexo=None, solo_mortales=None
+Falta selección: comunidades=[], provincias=A Coruña, anio=
+Petición a generar_grafica_apilada: comunidades=[], provincias=A Coruña, anio=2014, color_sexo=None, solo_mortales=None
+1
+No hay datos para los filtros utilizados (sin color por sexo). Filtro: {'incidente__localidad__provincia__codprovincia__in': [None, None, None, None, None, None, None, None], 'incidente__fecha__year': '2014'}
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Petición a generar_grafica_apilada: comunidades=Andalucía, provincias=[], anio=2014, color_sexo=None, solo_mortales=None
+1
+No hay datos para los filtros utilizados (sin color por sexo). Filtro: {'incidente__localidad__provincia__codccaa__in': [None, None, None, None, None, None, None, None, None], 'incidente__fecha__year': '2014'}
+Not Found: /favicon.ico
+Petición a generar_grafica_apilada: comunidades=Andalucía, provincias=[], anio=2015, color_sexo=None, solo_mortales=None
+1
+No hay datos para los filtros utilizados (sin color por sexo). Filtro: {'incidente__localidad__provincia__codccaa__in': [None, None, None, None, None, None, None, None, None], 'incidente__fecha__year': '2015'}
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+Petición a generar_grafica_apilada: comunidades=Andalucía, provincias=[], anio=2015, color_sexo=None, solo_mortales=None
+No hay datos para los filtros utilizados (sin color por sexo). Filtro: {'incidente__localidad__provincia__codccaa__in': [None, None, None, None, None, None, None, None, None], 'incidente__fecha__year': '2015'}
+Petición a generar_grafica_apilada: comunidades=Andalucía, provincias=[], anio=2015, color_sexo=None, solo_mortales=None
+No hay datos para los filtros utilizados (sin color por sexo). Filtro: {'incidente__localidad__provincia__codccaa__in': [None, None, None, None, None, None, None, None, None], 'incidente__fecha__year': '2015'}
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /generar_grafica_apilada/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 20, in post
+    resultado = graficas.generar_grafica_apilada(**request.data)
+TypeError: generar_grafica_apilada() got an unexpected keyword argument 'comunidades[]'. Did you mean 'comunidades'?
+Internal Server Error: /generar_grafica_apilada/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 20, in post
+    resultado = graficas.generar_grafica_apilada(**request.data)
+TypeError: generar_grafica_apilada() got an unexpected keyword argument 'comunidades[]'. Did you mean 'comunidades'?
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Petición a generar_grafica_apilada: comunidades=['Andalucía'], provincias=[], anio=2015, color_sexo=False, solo_mortales=False
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2015
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Petición a generar_grafica_apilada: comunidades=['Andalucía', 'Aragón'], provincias=[], anio=2014, color_sexo=False, solo_mortales=False
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2013, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2013
+Not Found: /favicon.ico
+Watching for file changes with StatReloader
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /favicon.ico
+Petición a generar_grafica_apilada: comunidades=['Andalucía'], provincias=[], anio=2015, color_sexo=False, solo_mortales=False
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2015
+Not Found: /favicon.ico
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /favicon.ico
+Petición a generar_grafica_circular: nacionalidades=['Todas'], anio_inicio=2013, anio_fin=2015
+Gráfica circular generada correctamente. Años: 2013 - 2015
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Petición a generar_grafica_apilada: comunidades=['Andalucía', 'Aragón'], provincias=[], anio=2014, color_sexo=False, solo_mortales=False
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Petición a generar_grafica_apilada: comunidades=['Andalucía', 'Aragón'], provincias=[], anio=2014, color_sexo=True, solo_mortales=False
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Petición a generar_grafica_apilada: comunidades=['Andalucía', 'Aragón'], provincias=[], anio=2014, color_sexo=True, solo_mortales=False
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Petición a generar_grafica_apilada: comunidades=['Andalucía', 'Aragón'], provincias=[], anio=2014, color_sexo=False, solo_mortales=True
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Petición a generar_grafica_apilada: comunidades=['Andalucía', 'Aragón'], provincias=[], anio=2014, color_sexo=False, solo_mortales=False
+Gráfica apilada generada correctamente. Comunidad/Provincia: Comunidad, Año: 2014
+Not Found: /favicon.ico
+Internal Server Error: /generar_grafica_lineas/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 52, in post
+    resultado = generar_grafica_lineas(comunidades, provincias, anio, colorsexo, solomortales)
+TypeError: generar_grafica_lineas() takes 2 positional arguments but 5 were given
+Internal Server Error: /generar_grafica_lineas/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 52, in post
+    resultado = generar_grafica_lineas(comunidades, provincias, anio, colorsexo, solomortales)
+TypeError: generar_grafica_lineas() takes 2 positional arguments but 5 were given
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Petición a generar_grafica_lineas: anio=2014, solo_mortales=True
+Gráfica de líneas generada correctamente. Año: 2014, Solo mortales: True
+Petición a generar_grafica_lineas: anio=2014, solo_mortales=True
+Gráfica de líneas generada correctamente. Año: 2014, Solo mortales: True
+Petición a generar_grafica_lineas: anio=2014, solo_mortales=True
+Gráfica de líneas generada correctamente. Año: 2014, Solo mortales: True
+Not Found: /favicon.ico
+Petición a generar_grafica_lineas: anio=2014, solo_mortales=False
+Gráfica de líneas generada correctamente. Año: 2014, Solo mortales: False
+Petición a generar_grafica_lineas: anio=2014, solo_mortales=False
+Gráfica de líneas generada correctamente. Año: 2014, Solo mortales: False
+Petición a generar_grafica_lineas: anio=2014, solo_mortales=False
+Gráfica de líneas generada correctamente. Año: 2014, Solo mortales: False
+Petición a generar_grafica_lineas: anio=2017, solo_mortales=False
+Gráfica de líneas generada correctamente. Año: 2017, Solo mortales: False
+Petición a generar_grafica_lineas: anio=2017, solo_mortales=False
+Gráfica de líneas generada correctamente. Año: 2017, Solo mortales: False
+Petición a generar_grafica_lineas: anio=2017, solo_mortales=False
+Gráfica de líneas generada correctamente. Año: 2017, Solo mortales: False
+Not Found: /favicon.ico
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=False
+Gráfica de líneas generada correctamente. Año: 2015, Solo mortales: False
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+Gráfica de líneas generada correctamente. Año: 2015, Solo mortales: True
+Not Found: /favicon.ico
+Internal Server Error: /generar_diagrama_dispersion/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 55, in post
+    resultado = generar_diagrama_dispersion()
+TypeError: generar_diagrama_dispersion() missing 3 required positional arguments: 'color_sexo', 'solo_mortales', and 'mostrar_linea'
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Petición a generar_diagrama_dispersion: color_sexo=False, solo_mortales=False, mostrar_linea=False
+Diagrama de dispersión generado correctamente. Color sexo: False, Solo mortales: False, Mostrar línea: False
+Petición a generar_diagrama_dispersion: color_sexo=True, solo_mortales=False, mostrar_linea=False
+Diagrama de dispersión generado correctamente. Color sexo: True, Solo mortales: False, Mostrar línea: False
+Petición a generar_diagrama_dispersion: color_sexo=True, solo_mortales=True, mostrar_linea=False
+Diagrama de dispersión generado correctamente. Color sexo: True, Solo mortales: True, Mostrar línea: False
+Petición a generar_diagrama_dispersion: color_sexo=True, solo_mortales=False, mostrar_linea=False
+Diagrama de dispersión generado correctamente. Color sexo: True, Solo mortales: False, Mostrar línea: False
+Petición a generar_diagrama_dispersion: color_sexo=True, solo_mortales=False, mostrar_linea=True
+Diagrama de dispersión generado correctamente. Color sexo: True, Solo mortales: False, Mostrar línea: True
+Not Found: /favicon.ico
+Petición a generar_mapa: solo_mortales=True, lugares=['Todos']
+Mapa generado correctamente. Solo mortales: True, Lugares: ['Todos']
+Petición a generar_mapa: solo_mortales=True, lugares=['Playa']
+Mapa generado correctamente. Solo mortales: True, Lugares: ['Playa']
+Petición a generar_mapa: solo_mortales=True, lugares=['Playa']
+Mapa generado correctamente. Solo mortales: True, Lugares: ['Playa']
+Petición a generar_mapa: solo_mortales=True, lugares=['Playa']
+Mapa generado correctamente. Solo mortales: True, Lugares: ['Playa']
+Petición a generar_mapa: solo_mortales=True, lugares=['Todos']
+Mapa generado correctamente. Solo mortales: True, Lugares: ['Todos']
+Petición a generar_mapa: solo_mortales=True, lugares=['Todos']
+Mapa generado correctamente. Solo mortales: True, Lugares: ['Todos']
+Not Found: /favicon.ico
+Petición a generar_mapa: solo_mortales=True, lugares=['Todos']
+Mapa generado correctamente. Solo mortales: True, Lugares: ['Todos']
+Petición a generar_mapa: solo_mortales=False, lugares=['Todos']
+Mapa generado correctamente. Solo mortales: False, Lugares: ['Todos']
+Petición a generar_mapa: solo_mortales=True, lugares=['Todos']
+Mapa generado correctamente. Solo mortales: True, Lugares: ['Todos']
+Not Found: /favicon.ico
+Internal Server Error: /generar_histograma/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 72, in post
+    resultado = generar_histograma()
+TypeError: generar_histograma() missing 2 required positional arguments: 'solo_mortales' and 'dias'
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Petición a generar_histograma: solo_mortales=False, dias=['Todos']
+Histograma generado correctamente. Solo mortales: False, Días: ['Todos']
+Petición a generar_histograma: solo_mortales=True, dias=['Todos']
+Histograma generado correctamente. Solo mortales: True, Días: ['Todos']
+Not Found: /favicon.ico
+Internal Server Error: /generar_radar/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 80, in post
+    resultado = generar_radar()
+TypeError: generar_radar() missing 1 required positional argument: 'filtro'
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Petición a generar_radar: filtro={}
+Filtro inválido recibido: filtro={}
+Petición a generar_radar: filtro={}
+Filtro inválido recibido: filtro={}
+Not Found: /favicon.ico
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Not Found: /favicon.ico
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /favicon.ico
+Petición a generar_radar: filtro=actividad
+Radar generado correctamente. Filtro: actividad
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Petición a comparativa_sklearn: actividad={}, localizacion=None, zonavigilada=None, factorriesgo=None, intervencion=None, edad=5
+Probabilidad de mortalidad calculada: 0.19375
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Internal Server Error: /generar_kmeans/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 114, in post
+    resultado = generar_kmeans(**request.data)
+TypeError: generar_kmeans() got an unexpected keyword argument 'anio-inicio-kmeans'
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /generar_kmeans/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 114, in post
+    resultado = generar_kmeans(**request.data)
+TypeError: generar_kmeans() got an unexpected keyword argument 'anio-inicio-kmeans'
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Internal Server Error: /generar_kmeans/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 114, in post
+    resultado = generar_kmeans(**request.data)
+TypeError: generar_kmeans() got an unexpected keyword argument 'anio-inicio-kmeans'
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Internal Server Error: /generar_kmeans/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 114, in post
+    resultado = generar_kmeans(**request.data)
+TypeError: generar_kmeans() got an unexpected keyword argument 'anio-inicio-kmeans'
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Petición a generar_mapa_hotspots: anio_inicio=None, anio_fin=None
+No se proporcionó rango de años: anio_inicio=None, anio_fin=None
+Not Found: /favicon.ico
+Petición a generar_mapa_hotspots: anio_inicio=None, anio_fin=None
+No se proporcionó rango de años: anio_inicio=None, anio_fin=None
+Not Found: /favicon.ico
+Petición a generar_mapa_hotspots: anio_inicio=None, anio_fin=None
+No se proporcionó rango de años: anio_inicio=None, anio_fin=None
+Not Found: /favicon.ico
+Petición a generar_mapa_hotspots: anio_inicio=None, anio_fin=None
+No se proporcionó rango de años: anio_inicio=None, anio_fin=None
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /favicon.ico
+Petición a generar_mapa_hotspots: anio_inicio=None, anio_fin=None
+No se proporcionó rango de años: anio_inicio=None, anio_fin=None
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Petición a generar_mapa_hotspots: anio_inicio=None, anio_fin=None
+No se proporcionó rango de años: anio_inicio=None, anio_fin=None
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Petición a generar_mapa_hotspots: anio_inicio=2013, anio_fin=2015
+Mapa hotspots generado correctamente para años 2013-2015.
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Internal Server Error: /generar_kmeans/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 116, in post
+    resultado = generar_kmeans(anio_inicio, anio_fin)
+TypeError: generar_kmeans() missing 1 required positional argument: 'num_clusters'
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+Petición a generar_kmeans: anio_inicio=None, anio_fin=None
+Falta año inicial o final: anio_inicio=None, anio_fin=None
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Petición a generar_kmeans: anio_inicio=2013, anio_fin=2015
+Gráfico K-Means generado para período 2013-2015 con 3 clusters.
+Petición a generar_kmeans: anio_inicio=2017, anio_fin=2015
+Año inicial mayor que el final: anio_inicio=2017, anio_fin=2015
+Internal Server Error: /generar_tree/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 122, in post
+    resultado = generar_tree(**request.data)
+TypeError: generar_tree() got an unexpected keyword argument 'variables'
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Petición a generar_tree: {'variables': ['deteccion_socorrista', 'mayor_65']}
+Variables seleccionadas inválidas o insuficientes: {'variables': ['deteccion_socorrista', 'mayor_65']}
+Petición a generar_tree: {'variables': ['deteccion_socorrista', 'mayor_65', 'meteo_buena']}
+Variables seleccionadas inválidas o insuficientes: {'variables': ['deteccion_socorrista', 'mayor_65', 'meteo_buena']}
+Petición a generar_tree: {'variables': ['deteccion_socorrista', 'mayor_65', 'meteo_buena', 'es_playa']}
+Variables seleccionadas inválidas o insuficientes: {'variables': ['deteccion_socorrista', 'mayor_65', 'meteo_buena', 'es_playa']}
+Petición a generar_tree: {'variables': ['deteccion_socorrista', 'mayor_65', 'meteo_buena', 'es_playa']}
+Variables seleccionadas inválidas o insuficientes: {'variables': ['deteccion_socorrista', 'mayor_65', 'meteo_buena', 'es_playa']}
+Petición a generar_tree: {'variables': ['deteccion_socorrista', 'mayor_65', 'meteo_buena', 'es_playa']}
+Variables seleccionadas inválidas o insuficientes: {'variables': ['deteccion_socorrista', 'mayor_65', 'meteo_buena', 'es_playa']}
+Petición a generar_tree: {'variables': ['mayor_65']}
+Variables seleccionadas inválidas o insuficientes: {'variables': ['mayor_65']}
+Not Found: /favicon.ico
+Petición a generar_tree: ['deteccion_socorrista', 'mayor_65']
+Árbol de decisión generado exitosamente con variables: ['deteccion_socorrista', 'mayor_65']
+Not Found: /favicon.ico
+Petición a generar_tree: ['es_playa', 'zona_vigilada']
+Árbol de decisión generado exitosamente con variables: ['es_playa', 'zona_vigilada']
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /api/graficas/lineas/
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Internal Server Error: /generar_grafica_circular/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 41, in post
+    resultado = generar_grafica_circular(nacionalidades, anioinicio, aniofin)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py", line 213, in generar_grafica_circular
+    if anio_fin < anio_inicio:
+       ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'NoneType'
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Internal Server Error: /generar_grafica_circular/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 41, in post
+    resultado = generar_grafica_circular(nacionalidades, anioinicio, aniofin)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py", line 213, in generar_grafica_circular
+    if anio_fin < anio_inicio:
+       ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'NoneType'
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Not Found: /api/graficas/lineas/
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Internal Server Error: /generar_grafica_circular/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 41, in post
+    resultado = generar_grafica_circular(nacionalidades, anioinicio, aniofin)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py", line 213, in generar_grafica_circular
+    if anio_fin < anio_inicio:
+       ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'NoneType'
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Internal Server Error: /generar_grafica_circular/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 41, in post
+    resultado = generar_grafica_circular(nacionalidades, anioinicio, aniofin)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py", line 213, in generar_grafica_circular
+    if anio_fin < anio_inicio:
+       ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'NoneType'
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Internal Server Error: /generar_grafica_circular/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 41, in post
+    resultado = generar_grafica_circular(nacionalidades, anioinicio, aniofin)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py", line 213, in generar_grafica_circular
+    if anio_fin < anio_inicio:
+       ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'NoneType'
+Petición a generar_grafica_circular: nacionalidades=España, anio_inicio=None, anio_fin=None
+Internal Server Error: /generar_grafica_circular/
+Traceback (most recent call last):
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Usuario\Desktop\UC\Cuarto_Curso\Segundo Cuatrimestre\TFG\projectAhogamientos\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py", line 41, in post
+    resultado = generar_grafica_circular(nacionalidades, anioinicio, aniofin)
+  File "C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py", line 213, in generar_grafica_circular
+    if anio_fin < anio_inicio:
+       ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'NoneType'
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\services\graficas.py changed, reloading.
+Watching for file changes with StatReloader
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=España, anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=España, anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=España, anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=España, anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2020, anio_fin=2023
+No hay datos para filtros: filtro={'incidente__fecha__year__gte': 2020, 'incidente__fecha__year__lte': 2023, 'nacionalidad__nombrenacionalidad__in': ['España']}
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2020, anio_fin=2023
+No hay datos para filtros: filtro={'incidente__fecha__year__gte': 2020, 'incidente__fecha__year__lte': 2023, 'nacionalidad__nombrenacionalidad__in': ['España']}
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2020, anio_fin=2023
+No hay datos para filtros: filtro={'incidente__fecha__year__gte': 2020, 'incidente__fecha__year__lte': 2023, 'nacionalidad__nombrenacionalidad__in': ['España']}
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Watching for file changes with StatReloader
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2013, anio_fin=2016
+Gráfica circular generada correctamente. Años: 2013 - 2016
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2013, anio_fin=2016
+No hay datos para filtros: filtro={'incidente__fecha__year__gte': 2013, 'incidente__fecha__year__lte': 2016, 'nacionalidad__nombrenacionalidad__in': ['España']}
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['Alemania'], anio_inicio=2013, anio_fin=2016
+No hay datos para filtros: filtro={'incidente__fecha__year__gte': 2013, 'incidente__fecha__year__lte': 2016, 'nacionalidad__nombrenacionalidad__in': ['Alemania']}
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['Todas'], anio_inicio=2013, anio_fin=2016
+No hay datos para filtros: filtro={'incidente__fecha__year__gte': 2013, 'incidente__fecha__year__lte': 2016}
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=Alemania, anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=Alemania, anio_inicio=2024, anio_fin=2025
+Parámetros inválidos: nacionalidades vacías o no válidas
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=Todas, anio_inicio=2024, anio_fin=2025
+Parámetros inválidos: nacionalidades vacías o no válidas
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=España, anio_inicio=2024, anio_fin=2025
+Parámetros inválidos: nacionalidades vacías o no válidas
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=2024, anio_fin=2025
+Parámetros inválidos: nacionalidades vacías o no válidas
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=2013, anio_fin=2016
+Parámetros inválidos: nacionalidades vacías o no válidas
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['Todas'], anio_inicio=2013, anio_fin=2016
+No hay datos para filtros: filtro={'incidente__fecha__year__gte': 2013, 'incidente__fecha__year__lte': 2016}
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['todas'], anio_inicio=2013, anio_fin=2016
+No hay datos para filtros: filtro={'incidente__fecha__year__gte': 2013, 'incidente__fecha__year__lte': 2016, 'nacionalidad__nombrenacionalidad__in': ['todas']}
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['Todas'], anio_inicio=2013, anio_fin=2016
+No hay datos para filtros: filtro={'incidente__fecha__year__gte': 2013, 'incidente__fecha__year__lte': 2016}
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España', 'Alemania'], anio_inicio=2013, anio_fin=2016
+No hay datos para filtros: filtro={'incidente__fecha__year__gte': 2013, 'incidente__fecha__year__lte': 2016, 'nacionalidad__nombrenacionalidad__in': ['España', 'Alemania']}
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=2013, anio_fin=2016
+Parámetros inválidos: nacionalidades vacías o no válidas
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=actividad
+Radar generado correctamente. Filtro: actividad
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Not Found: /generar_grafica_radar/
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=False
+Gráfica de líneas generada correctamente. Año: 2015, Solo mortales: False
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=False
+Gráfica de líneas generada correctamente. Año: 2015, Solo mortales: False
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=False
+Gráfica de líneas generada correctamente. Año: 2015, Solo mortales: False
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=False
+Gráfica de líneas generada correctamente. Año: 2015, Solo mortales: False
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_mapa: solo_mortales=True, lugares=[]
+No se han seleccionado lugares: lugares=[]
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_mapa: solo_mortales=True, lugares=[]
+No se han seleccionado lugares: lugares=[]
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_mapa: solo_mortales=True, lugares=Playa
+No hay datos para filtros: filtro={'pronostico__nombrepronostico': 'Ahogamiento mortal', 'incidente__localizacion__nombrelocalizacion__in': []}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_mapa: solo_mortales=True, lugares=Playa
+No hay datos para filtros: filtro={'pronostico__nombrepronostico': 'Ahogamiento mortal', 'incidente__localizacion__nombrelocalizacion__in': []}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_mapa: solo_mortales=True, lugares=[]
+No se han seleccionado lugares: lugares=[]
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_mapa: solo_mortales=True, lugares=Playa
+No hay datos para filtros: filtro={'pronostico__nombrepronostico': 'Ahogamiento mortal', 'incidente__localizacion__nombrelocalizacion__in': []}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_mapa: solo_mortales=True, lugares=Playa
+No hay datos para filtros: filtro={'pronostico__nombrepronostico': 'Ahogamiento mortal', 'incidente__localizacion__nombrelocalizacion__in': []}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_mapa: solo_mortales=True, lugares=Playa
+No hay datos para filtros: filtro={'pronostico__nombrepronostico': 'Ahogamiento mortal', 'incidente__localizacion__nombrelocalizacion__in': []}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_mapa: solo_mortales=True, lugares=[]
+No se han seleccionado lugares: lugares=[]
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_mapa: solo_mortales=True, lugares=[]
+No se han seleccionado lugares: lugares=[]
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
