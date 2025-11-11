@@ -9,7 +9,7 @@ def obtener_codigo(tabla, nombre):
         return None
     else:
         return resultado[0]
-    
+
 def obtener_nombre(tabla, codigo):
     conexion = sqlite3.connect("ahogamientos.db")
     cursor = conexion.cursor()
