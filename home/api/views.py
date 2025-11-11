@@ -2,8 +2,8 @@ from django.shortcuts import render
 from django.http import JsonResponse
 from django.shortcuts import render
 from django.db.models import Count
-from .models import Victima
-from .utils import obtener_codigo
+from home.models import Victima
+from home.utils import obtener_codigo
 import plotly as plotly
 import pandas as pd
 from bokeh.models import ColumnDataSource, LabelSet, HoverTool, Label, GeoJSONDataSource, ColorBar, BasicTicker, PrintfTickFormatter, Whisker, Div

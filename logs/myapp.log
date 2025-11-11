@@ -2336,3 +2336,11 @@ Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
 No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
 C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\home\api\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+C:\Users\Usuario\Desktop\UGR\1º Cuatrimestre\CC\Proyecto\ahogamientos\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
