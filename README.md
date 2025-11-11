@@ -6,7 +6,3 @@ fenómeno.
 
 ## Hitos
 [Hito 1](hitos/hito1.md)
-
-[Hito 2](hitos/hito2.md)
-
-[Hito 3](hitos/hito3.md)

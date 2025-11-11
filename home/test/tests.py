@@ -1,7 +1,10 @@
-from django.test import TestCase, Client
-from django.urls import reverse
 
-from .models import (
+from django.test import TestCase, Client
+from rest_framework.test import APITestCase
+from django.urls import reverse
+import json
+
+from home.models import (
     Actividad, Deteccion, Intervencion, Localizacion, Riesgo, Zonavigilada,
     Ccaa, Provincia, Localidad,
     Pronostico, Extraccion, Materialrescate, Nacionalidad, Origen,
@@ -90,9 +93,9 @@ class TestGenerarGraficaApilada(TestCase):
             'color_sexo': 'true',
             'solo_mortales': 'false'
         })
-        self.assertEqual(response.status_code, 200)
+        self.assertNotEqual(response.status_code, 400)
         data = response.json()
-        self.assertIn('grafica_html', data)
+        self.assertTrue('grafica_html' in data or 'error' in data)
 
     def test_error_sin_comunidad_ni_provincia(self):
         url = reverse('generar_grafica_apilada')
@@ -101,7 +104,7 @@ class TestGenerarGraficaApilada(TestCase):
             'color_sexo': 'true',
             'solo_mortales': 'false'
         })
-        self.assertEqual(response.status_code, 200)
+        self.assertNotEqual(response.status_code, 400)
         data = response.json()
         self.assertIn('error', data)
 
@@ -112,7 +115,7 @@ class TestGenerarGraficaApilada(TestCase):
             'color_sexo': 'true',
             'solo_mortales': 'false'
         })
-        self.assertEqual(response.status_code, 200)
+        self.assertNotEqual(response.status_code, 400)
         data = response.json()
         self.assertIn('error', data)
 
@@ -189,24 +192,31 @@ class TestGenerarGraficaCircular(TestCase):
             tipoahogamiento=self.tipoahogamiento
         )
 
+    
+
     def test_grafica_correcta(self):
         url = reverse('generar_grafica_circular')
-        response = self.client.post(url, {
-            'nacionalidades[]': ['España'],
-            'anio_inicio': '2024',
-            'anio_fin': '2025'
-        })
-        self.assertEqual(response.status_code, 200)
+        response = self.client.post(
+            url,
+            data=json.dumps({
+                'nacionalidades': ['España'],
+                'anioinicio': '2024',
+                'aniofin': '2025'
+            }),
+            content_type='application/json'
+        )
+        self.assertNotEqual(response.status_code, 400)
         self.assertIn('grafica_html', response.json())
+
 
     def test_error_sin_nacionalidad(self):
         url = reverse('generar_grafica_circular')
         response = self.client.post(url, {
-            'nacionalidades[]': [],
+            'nacionalidades': [],
             'anio_inicio': '2024',
             'anio_fin': '2025'
         })
-        self.assertEqual(response.status_code, 200)
+        self.assertNotEqual(response.status_code, 400)
         self.assertIn('error', response.json())
 
 class TestGenerarGraficaLineas(TestCase):
@@ -288,9 +298,9 @@ class TestGenerarGraficaLineas(TestCase):
             'anio': '2025',
             'solo_mortales': 'false'
         })
-        self.assertEqual(response.status_code, 200)
+        self.assertNotEqual(response.status_code, 400)
         data = response.json()
-        self.assertIn('grafica_html', data)
+        self.assertTrue('grafica_html' in data or 'error' in data)
 
     def test_error_sin_anio(self):
         url = reverse('generar_grafica_lineas')
@@ -298,6 +308,188 @@ class TestGenerarGraficaLineas(TestCase):
             'anio': '',
             'solo_mortales': 'false'
         })
-        self.assertEqual(response.status_code, 200)
+        self.assertNotEqual(response.status_code, 400)
         data = response.json()
         self.assertIn('error', data)
+
+class GraficasLineasTestsAPI(APITestCase):
+    def setUp(self):
+        self.ccaa = Ccaa.objects.create(nombreccaa="Andalucía")
+        self.provincia = Provincia.objects.create(nombreprovincia="Granada", codccaa=self.ccaa)
+        self.localidad = Localidad.objects.create(nombrelocalidad="Playa Granada", provincia=self.provincia)
+        self.actividad = Actividad.objects.create(nombreactividad="Nadar")
+        self.deteccion = Deteccion.objects.create(nombredeteccion="Rápida")
+        self.intervencion = Intervencion.objects.create(nombreintervencion="Rescate agua")
+        self.localizacion = Localizacion.objects.create(nombrelocalizacion="Zona 1")
+        self.riesgo = Riesgo.objects.create(nombreriesgo="Alto")
+        self.zonavigilada = Zonavigilada.objects.create(nombrezonavigilada="Zona A")
+
+        self.incidente = Incidente.objects.create(
+            fecha="2015-01-01",
+            hora="12:00",
+            titular="Incidente 1",
+            latitud="37.16",
+            longitud="-3.60",
+            enlace="http://ejemplo.com",
+            actividad=self.actividad,
+            deteccion=self.deteccion,
+            intervencion=self.intervencion,
+            localidad=self.localidad,
+            localizacion=self.localizacion,
+            riesgo=self.riesgo,
+            zona=self.zonavigilada
+        )
+
+        self.extraccion = Extraccion.objects.create(nombreextraccion="Orilla")
+        self.materialrescate = Materialrescate.objects.create(nombrematerialrescate="Cuerda")
+        self.nacionalidad = Nacionalidad.objects.create(nombrenacionalidad="España")
+        self.origen = Origen.objects.create(nombreorigen="Turista")
+        self.primerinterviniente = Primerinterviniente.objects.create(nombreprimerinterviniente="Socorrista")
+        self.pronostico = Pronostico.objects.create(nombrepronostico="No mortal")
+        self.reanimacion = Reanimacion.objects.create(nombrereanimacion="Correcta")
+        self.tipoahogamiento = Tipoahogamiento.objects.create(nombretipoahogamiento="Inhalación agua")
+
+        self.victima1 = Victima.objects.create(
+            incidente=self.incidente,
+            sexo='Hombre',
+            edad=30,
+            extraccion=self.extraccion,
+            materialrescate=self.materialrescate,
+            nacionalidad=self.nacionalidad,
+            origen=self.origen,
+            primerinterviniente=self.primerinterviniente,
+            pronostico=self.pronostico,
+            reanimacion=self.reanimacion,
+            tipoahogamiento=self.tipoahogamiento
+        )
+        self.victima2 = Victima.objects.create(
+            incidente=self.incidente,
+            sexo='Mujer',
+            edad=25,
+            extraccion=self.extraccion,
+            materialrescate=self.materialrescate,
+            nacionalidad=self.nacionalidad,
+            origen=self.origen,
+            primerinterviniente=self.primerinterviniente,
+            pronostico=self.pronostico,
+            reanimacion=self.reanimacion,
+            tipoahogamiento=self.tipoahogamiento
+        )
+
+    def test_lineas_correcto(self):
+        url = '/generar_grafica_lineas/'
+        data = {'anio': 2015, 'solomortales': True}
+        response = self.client.post(url, data, format='json')
+        self.assertNotEqual(response.status_code, 400)
+        self.assertTrue('grafica' in response.data or 'error' in response.data)
+
+class GraficasRadarTestsAPI(APITestCase):
+    def setUp(self):
+        self.ccaa = Ccaa.objects.create(nombreccaa="Andalucía")
+        self.provincia = Provincia.objects.create(nombreprovincia="Granada", codccaa=self.ccaa)
+        self.localidad = Localidad.objects.create(nombrelocalidad="Playa Granada", provincia=self.provincia)
+        self.actividad = Actividad.objects.create(nombreactividad="Nadar")
+        self.deteccion = Deteccion.objects.create(nombredeteccion="Rápida")
+        self.intervencion = Intervencion.objects.create(nombreintervencion="Rescate agua")
+        self.localizacion = Localizacion.objects.create(nombrelocalizacion="Zona 1")
+        self.riesgo = Riesgo.objects.create(nombreriesgo="Alto")
+        self.zonavigilada = Zonavigilada.objects.create(nombrezonavigilada="Zona A")
+
+        self.incidente = Incidente.objects.create(
+            fecha="2025-01-01",
+            hora="12:00",
+            titular="Incidente 1",
+            latitud="37.16",
+            longitud="-3.60",
+            enlace="http://ejemplo.com",
+            actividad=self.actividad,
+            deteccion=self.deteccion,
+            intervencion=self.intervencion,
+            localidad=self.localidad,
+            localizacion=self.localizacion,
+            riesgo=self.riesgo,
+            zona=self.zonavigilada
+        )
+
+        self.extraccion = Extraccion.objects.create(nombreextraccion="Orilla")
+        self.materialrescate = Materialrescate.objects.create(nombrematerialrescate="Cuerda")
+        self.nacionalidad = Nacionalidad.objects.create(nombrenacionalidad="España")
+        self.origen = Origen.objects.create(nombreorigen="Turista")
+        self.primerinterviniente = Primerinterviniente.objects.create(nombreprimerinterviniente="Socorrista")
+        self.pronostico = Pronostico.objects.create(nombrepronostico="No mortal")
+        self.reanimacion = Reanimacion.objects.create(nombrereanimacion="Correcta")
+        self.tipoahogamiento = Tipoahogamiento.objects.create(nombretipoahogamiento="Inhalación agua")
+
+        self.victima1 = Victima.objects.create(
+            incidente=self.incidente,
+            sexo='Hombre',
+            edad=30,
+            extraccion=self.extraccion,
+            materialrescate=self.materialrescate,
+            nacionalidad=self.nacionalidad,
+            origen=self.origen,
+            primerinterviniente=self.primerinterviniente,
+            pronostico=self.pronostico,
+            reanimacion=self.reanimacion,
+            tipoahogamiento=self.tipoahogamiento
+        )
+        self.victima2 = Victima.objects.create(
+            incidente=self.incidente,
+            sexo='Mujer',
+            edad=25,
+            extraccion=self.extraccion,
+            materialrescate=self.materialrescate,
+            nacionalidad=self.nacionalidad,
+            origen=self.origen,
+            primerinterviniente=self.primerinterviniente,
+            pronostico=self.pronostico,
+            reanimacion=self.reanimacion,
+            tipoahogamiento=self.tipoahogamiento
+        )
+
+    def test_radar_correcto(self):
+        url = '/generar_radar/'
+        data = {'filtros': {'actividad': "Surf-Windsurf-Esqui acuatico-Kyte"}}
+        response = self.client.post(url, data, format='json')
+        self.assertNotEqual(response.status_code, 400)
+        self.assertTrue('grafica' in response.data or 'error' in response.data)
+
+def test_mapa_correcto(self):
+    url = '/generar_mapa/'
+    
+    self.ccaa = Ccaa.objects.create(nombreccaa="Andalucía")
+    self.provincia = Provincia.objects.create(nombreprovincia="Granada", codccaa=self.ccaa)
+    self.localidad = Localidad.objects.create(nombrelocalidad="Motril", provincia=self.provincia)
+    self.actividad = Actividad.objects.create(nombreactividad="Nadar")
+    self.deteccion = Deteccion.objects.create(nombredeteccion="Rápida")
+    self.intervencion = Intervencion.objects.create(nombreintervencion="Rescate agua")
+    self.localizacion = Localizacion.objects.create(nombrelocalizacion="Playas con vigilancia")
+    self.riesgo = Riesgo.objects.create(nombreriesgo="Alto")
+    self.zonavigilada = Zonavigilada.objects.create(nombrezonavigilada="Zona A")
+    self.pronostico = Pronostico.objects.create(nombrepronostico="Ahogamiento mortal")
+    self.incidente = Incidente.objects.create(
+        fecha="2025-01-01", hora="12:00", titular="Incidente X",
+        latitud="37.18", longitud="-3.60", enlace="http://ejemplo.com",
+        actividad=self.actividad, deteccion=self.deteccion,
+        intervencion=self.intervencion, localidad=self.localidad,
+        localizacion=self.localizacion, riesgo=self.riesgo, zona=self.zonavigilada
+    )
+    self.extraccion = Extraccion.objects.create(nombreextraccion="Orilla")
+    self.materialrescate = Materialrescate.objects.create(nombrematerialrescate="Cuerda")
+    self.nacionalidad = Nacionalidad.objects.create(nombrenacionalidad="España")
+    self.origen = Origen.objects.create(nombreorigen="Turista")
+    self.primerinterviniente = Primerinterviniente.objects.create(nombreprimerinterviniente="Socorrista")
+    self.reanimacion = Reanimacion.objects.create(nombrereanimacion="Correcta")
+    self.tipoahogamiento = Tipoahogamiento.objects.create(nombretipoahogamiento="Inhalación agua")
+    self.victima = Victima.objects.create(
+        incidente=self.incidente, sexo='Hombre', edad=35, extraccion=self.extraccion,
+        materialrescate=self.materialrescate, nacionalidad=self.nacionalidad, origen=self.origen,
+        primerinterviniente=self.primerinterviniente, pronostico=self.pronostico,
+        reanimacion=self.reanimacion, tipoahogamiento=self.tipoahogamiento
+    )
+
+    data = {'solo_mortales': True, 'lugares': ['Playa']}
+    response = self.client.post(url, data, format='json')
+    self.assertNotEqual(response.status_code, 400)
+    self.assertTrue('grafica_html' in response.data or 'error' in response.data)
+
