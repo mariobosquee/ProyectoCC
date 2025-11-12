@@ -33,6 +33,10 @@ En vez de centralizar rutas y lógica en archivos dispersos por la app, se agrup
     
 <img width="776" height="453" alt="image" src="https://github.com/user-attachments/assets/1be1c9f4-4983-42b9-8729-391b38067ee7" />
 
+<img width="1890" height="541" alt="image" src="https://github.com/user-attachments/assets/f5a48d58-893c-42c0-951b-bb58576ab409" />
+
+<img width="1357" height="809" alt="image" src="https://github.com/user-attachments/assets/f9fad314-cf9d-4609-8656-63f4f8533f96" />
+
   -  Directorio raíz del proyecto: En la raíz del proyecto se encuentran los archivos principales del núcleo de la aplicación Django, indispensables para su correcto funcionamiento y organización. admin.py define la configuración y administración de los modelos en el panel de Django. Por su parte, apps.py gestiona la configuración de la app, sirviendo como punto de entrada para parámetros importantes. El archivo models.py registra todas las entidades y relaciones de la base de datos mediante el ORM, y urls.py centraliza la definición de rutas públicas del proyecto, enlazando cada URL con la vista correspondiente.
 
 <img width="199" height="386" alt="image" src="https://github.com/user-attachments/assets/beec7745-93e2-47a8-95bf-41300e248b56" />
