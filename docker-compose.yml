@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres:16
+    container_name: ahogamientos_db
+    environment:
+      POSTGRES_DB: ahogamientos
+      POSTGRES_USER: ahog_user
+      POSTGRES_PASSWORD: ahog_pass
+    ports:
+      - "5432:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    restart: always
+
+volumes:
+  db-data:
