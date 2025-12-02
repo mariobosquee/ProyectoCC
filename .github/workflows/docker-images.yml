@@ -1,0 +1,46 @@
+name: Construir y publicar imágenes Docker
+
+on:
+  push:
+    branches: [ master ]  
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_WEB: ${{ github.repository }}-web
+  IMAGE_DB:  ${{ github.repository }}-db
+
+jobs:
+  construir-y-publicar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - name: Obtener código del repositorio
+        uses: actions/checkout@v4
+
+      - name: Iniciar sesión en GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Construir y subir imagen web
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: ./Dockerfile
+          push: true
+          tags: |
+            ${{ env.REGISTRY }}/${{ env.IMAGE_WEB }}:latest
+            
+      - name: Construir y subir imagen de la base de datos
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: ./Dockerfile.db
+          push: true
+          tags: |
+            ${{ env.REGISTRY }}/${{ env.IMAGE_DB }}:latest
