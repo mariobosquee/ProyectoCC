@@ -3,6 +3,11 @@ from django.test import TestCase, Client
 from rest_framework.test import APITestCase
 from django.urls import reverse
 import json
+import subprocess
+import time
+import requests
+from django.test import SimpleTestCase
+
 
 from home.models import (
     Actividad, Deteccion, Intervencion, Localizacion, Riesgo, Zonavigilada,
@@ -494,3 +499,46 @@ class GraficasMapaTestsAPI(APITestCase):
         self.assertNotEqual(response.status_code, 400)
         self.assertTrue('grafica_html' in response.data or 'error' in response.data)
 
+COMPOSE_FILE = "docker-compose.yml"
+BASE_URL = "http://localhost:8000"
+TIMEOUT = 120       # segundos máximos esperando a que arranque
+SLEEP = 3  # segundos entre intentos
+
+def run(cmd):
+    subprocess.run(cmd, check=True)
+
+
+def wait_for_web():
+    start = time.time()
+    while time.time() - start < TIMEOUT:
+        try:
+            r = requests.get(BASE_URL, timeout=5)
+            if r.status_code == 200:
+                return
+        except Exception:
+            pass
+        time.sleep(SLEEP)
+    raise RuntimeError("El servicio web no ha arrancado a tiempo")
+
+
+class ClusterContainersTest(SimpleTestCase):
+    """Test de integración del clúster Docker."""
+
+    def test_cluster_responde_correctamente(self):
+        try:
+            # Levantar clúster
+            run(["docker", "compose", "-f", COMPOSE_FILE, "up", "-d"])
+
+            # Esperar a que el web esté listo
+            wait_for_web()
+
+            # Home
+            r_home = requests.get(f"{BASE_URL}/", timeout=10)
+            self.assertEqual(r_home.status_code, 200)
+
+            # Endpoint que toca BD (ajusta la ruta)
+            r_graph = requests.get(f"{BASE_URL}/generar_grafica_apilada/", timeout=10)
+            self.assertEqual(r_graph.status_code, 200)
+        finally:
+            # Parar clúster
+            run(["docker", "compose", "-f", COMPOSE_FILE, "down"])

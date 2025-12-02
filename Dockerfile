@@ -17,7 +17,7 @@ RUN pip install --upgrade pip && pip install -r requirements.txt
 # Copia todo el código del proyecto al contenedor
 COPY . /app/
 
-# Expone el puerto 8000 (Django por defecto)
+# Expone el puerto 8000 
 EXPOSE 8000
 
 # Ejecuta las migraciones y arranca el servidor Django

@@ -2356,3 +2356,43 @@ Petición a generar_grafica_lineas: anio=, solo_mortales=True
 No se ha seleccionado año: anio=
 Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
 No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_mapa: solo_mortales=True, lugares=['Playa']
+Mapa generado correctamente. Solo mortales: True, Lugares: ['Playa']
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_grafica_lineas: anio=2015, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': 2015, 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
+Petición a generar_mapa: solo_mortales=True, lugares=['Playa']
+Mapa generado correctamente. Solo mortales: True, Lugares: ['Playa']
+Petición a generar_radar: filtro=None
+Filtro inválido recibido: filtro=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=None, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=None
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_apilada: comunidades=[], provincias=[], anio=2025, color_sexo=None, solo_mortales=True
+Falta selección: comunidades=[], provincias=[], anio=2025
+Petición a generar_grafica_circular: nacionalidades=[], anio_inicio=None, anio_fin=None
+Parámetros inválidos: falta anio_inicio o anio_fin
+Petición a generar_grafica_circular: nacionalidades=['España'], anio_inicio=2024, anio_fin=2025
+Gráfica circular generada correctamente. Años: 2024 - 2025
+Petición a generar_grafica_lineas: anio=, solo_mortales=True
+No se ha seleccionado año: anio=
+Petición a generar_grafica_lineas: anio=2025, solo_mortales=True
+No hay datos para filtros: filtro={'incidente__fecha__year': '2025', 'pronostico__nombrepronostico': 'Ahogamiento mortal'}
