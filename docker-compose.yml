@@ -1,4 +1,22 @@
 services:
+  web:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    container_name: ahogamientos_web
+    volumes:
+      - .:/code
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    environment:
+      DJANGO_SETTINGS_MODULE: ahogamientos.settings
+      DB_NAME: ahogamientos
+      DB_USER: ahog_user
+      DB_PASSWORD: ahog_pass
+      DB_HOST: db
+      DB_PORT: 5432
+
   db:
     image: postgres:16
     container_name: ahogamientos_db
