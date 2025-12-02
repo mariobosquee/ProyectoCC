@@ -6,8 +6,8 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_WEB: ${{ github.repository }}-web
-  IMAGE_DB:  ${{ github.repository }}-db
+  IMAGE_WEB: mariobosquee/ProyectoCC-web
+  IMAGE_DB:  mariobosquee/ProyectoCC-db
 
 jobs:
   construir-y-publicar:
