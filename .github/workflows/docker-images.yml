@@ -6,8 +6,8 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_WEB: mariobosquee/ProyectoCC-web
-  IMAGE_DB:  mariobosquee/ProyectoCC-db
+  IMAGE_WEB: mariobosquee/proyectocc-web
+  IMAGE_DB:  mariobosquee/proyectocc-db
 
 jobs:
   construir-y-publicar:
