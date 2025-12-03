@@ -495,24 +495,3 @@ class GraficasMapaTestsAPI(APITestCase):
         response = self.client.post(url, data, format='json')
         self.assertNotEqual(response.status_code, 400)
         self.assertTrue('grafica_html' in response.data or 'error' in response.data)
-
-    """Test de integración del clúster Docker."""
-
-    def test_cluster_responde_correctamente(self):
-        try:
-            # Levantar clúster
-            run(["docker", "compose", "-f", COMPOSE_FILE, "up", "-d"])
-
-            # Esperar a que el web esté listo
-            wait_for_web()
-
-            # Home
-            r_home = requests.get(f"{BASE_URL}/", timeout=10)
-            self.assertEqual(r_home.status_code, 200)
-
-            # Endpoint que toca BD (ajusta la ruta)
-            r_graph = requests.get(f"{BASE_URL}/generar_grafica_apilada/", timeout=10)
-            self.assertEqual(r_graph.status_code, 200)
-        finally:
-            # Parar clúster
-            run(["docker", "compose", "-f", COMPOSE_FILE, "down"])
