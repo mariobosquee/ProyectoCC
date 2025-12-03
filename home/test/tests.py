@@ -3,6 +3,7 @@ from django.test import TestCase, Client
 from rest_framework.test import APITestCase
 from django.urls import reverse
 import json
+import requests
 
 
 from home.models import (
