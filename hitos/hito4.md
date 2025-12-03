@@ -80,6 +80,12 @@ Gracias a ello, levantar el entorno completo se reduce a ejecutar un único coma
 
 ## Test de validación del clúster
 
+Para validar el correcto funcionamiento del clúster se ha definido un test de integración específico para contenedores implementado como un script de shell, almacenado en el fichero test_clusters.sh. Este script automatiza el arranque y la parada del entorno completo usando Docker Compose, de modo que no solo se comprueba que los contenedores se crean correctamente, sino también que el servicio web de la aplicación Django llega a estar disponible en la URL de entrada del sistema. El formato escogido es un ejecutable debido a que solo he podido implementar los contenedores en una maquina virtual.
 
+<img width="1147" height="881" alt="image" src="https://github.com/user-attachments/assets/ee9ebfdf-c02b-4c3e-81cf-7dd9a3d9e419" />
 
+El flujo del test comienza lanzando dentro del script el comando docker compose up -d, que construye las imágenes si es necesario y arranca los servicios web y db en segundo plano. A continuación, el script entra en un bucle en el que realiza peticiones HTTP periódicas a http://localhost:8000, esperando hasta que la página principal devuelve un código de estado 200 o hasta que se alcanza un tiempo máximo configurado, en cuyo caso se considera que el despliegue ha fallado.
 
+<img width="1078" height="731" alt="image" src="https://github.com/user-attachments/assets/c0da719c-86e5-4ef3-a056-96a4d7eeb553" />
+
+Al finalizar la comprobación, tanto si la aplicación ha respondido correctamente como si se ha agotado el tiempo de espera, el script ejecuta docker compose down para detener y eliminar los contenedores, liberando los recursos ocupados por el clúster.
