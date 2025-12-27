@@ -31,7 +31,9 @@ ALLOWED_HOSTS = [
     "prevencion-ahogamientos.up.railway.app",
 ]
 
-
+CSRF_TRUSTED_ORIGINS = [
+    "https://prevencion-ahogamientos.up.railway.app",
+]
 
 # Application definition
 
