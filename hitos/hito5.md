@@ -1,4 +1,4 @@
-# Hito 5: Despliegue de la aplicación en un IaaS o PaaS
+<img width="1483" height="784" alt="image" src="https://github.com/user-attachments/assets/dd6060fb-3db0-44c9-ac26-ce78d7ccaa7b" /># Hito 5: Despliegue de la aplicación en un IaaS o PaaS
 
 ## Descripción del hito
 
@@ -30,11 +30,40 @@ La configuración del despliegue se completa definiendo en el panel del proyecto
 
 <img width="1584" height="728" alt="image" src="https://github.com/user-attachments/assets/80e21cd1-029a-4c6b-adfc-ececc67f5843" />
 
+## Herramientas de observabilidad en el despliegue
 
+Para monitorizar la aplicación en tiempo real se utilizan las herramientas de observabilidad que nos ofrece Railway, que proporcionan en un único panel el consumo actual y estimado del proyecto, junto con los registros detallados de arranque del contenedor, ejecución de migraciones y actividad de la aplicación. Esta información permite detectar rápidamente errores durante el despliegue y controlar el coste y uso de recursos sin necesidad de instalar agentes adicionales.
+​
+<img width="1593" height="636" alt="image" src="https://github.com/user-attachments/assets/3c40869d-7dfb-441b-87be-bd6b22220185" />
 
+Además del panel de uso global, la plataforma muestra métricas temporales de red, CPU y memoria para el servicio que ejecuta la aplicación, lo que facilita identificar picos de carga durante las pruebas de estrés y comprobar que el contenedor se mantiene dentro de los límites de recursos asignados. Esta combinación de logs en tiempo real y gráficas de rendimiento justifica el uso de las herramientas nativas de Railway como solución de observabilidad, ya que reducen el tiempo de detección de incidencias y permiten correlacionar fácilmente las peticiones enviadas a la aplicación con el comportamiento de la infraestructura subyacente.
 
+<img width="1547" height="495" alt="image" src="https://github.com/user-attachments/assets/8512e47d-4811-45f8-92d3-da42d5b342d2" />
 
+<img width="781" height="495" alt="image" src="https://github.com/user-attachments/assets/2cfb194f-1cb5-4ad2-8095-e8c3ed653fd6" />
 
+## Funcionamiento correcto del despliegue
 
+El despliegue en Railway se considera correcto porque la aplicación Django no solo arranca sin errores, sino que permite navegar por todas las vistas principales, acceder a la base de datos PostgreSQL y ejecutar las mismas operaciones que en el entorno local. Después de cada push a la rama principal, la plataforma reconstruye la imagen Docker, aplica las migraciones y levanta el contenedor sin fallos en los logs, de modo que la aplicación responde con códigos HTTP válidos y muestra los datos esperados, lo que confirma que el entorno en la nube replica el comportamiento del entorno de desarrollo.
+​
+<img width="1594" height="842" alt="image" src="https://github.com/user-attachments/assets/0919af2f-245c-48d5-934e-7cb8528979a3" />
 
+<img width="1594" height="836" alt="image" src="https://github.com/user-attachments/assets/f7743fd6-974e-4790-b8d4-f6f416b51ac0" />
 
+## Pruebas de prestaciones de la aplicación
+
+Para evaluar las prestaciones de la aplicación desplegada en Railway se ha ejecutado una prueba de carga con ApacheBench, lanzando 200 peticiones concurrentes con un nivel de concurrencia 20 contra la URL pública del servicio en producción. El resultado del test muestra que se completaron las 200 peticiones sin errores, con una media de 42,48 peticiones por segundo, un tiempo medio por petición de 470,755 ms y un tiempo máximo de 700 ms, lo que indica que la aplicación soporta este nivel de carga manteniendo tiempos de respuesta aceptables.
+
+<img width="1483" height="784" alt="image" src="https://github.com/user-attachments/assets/7810eb01-8e03-46e7-9ed1-9f207b6bcc21" />​
+
+Durante la ejecución de la prueba se han monitorizado en Railway las métricas de CPU, memoria y tráfico de red del contenedor, sin observarse un aumento del uso de CPU, mientras que se detecta un pico claro en el network egress coincidente con el envío masivo de respuestas. El consumo de memoria aumenta ligeramente en ese mismo instante, pasando de unos 220 a 240 MB, lo que confirma que la aplicación puede atender ráfagas de peticiones sin degradación significativa del rendimiento ni necesidad de reinicios del servicio.
+
+<img width="763" height="496" alt="image" src="https://github.com/user-attachments/assets/8fa58320-65bb-49f2-803a-4d5392d08a0d" />
+
+<img width="765" height="494" alt="image" src="https://github.com/user-attachments/assets/b1c8f619-7749-45d3-8384-452f7f7e54f8" />
+
+<img width="761" height="477" alt="image" src="https://github.com/user-attachments/assets/046d3d92-58a3-4ab4-9fee-9f6e6fd27b0f" />
+
+## URL de la aplicación desplegada
+
+La aplicación se encuentra desplegada en el entorno de producción del proveedor PaaS, y se expone públicamente en https://prevencion-ahogamientos.up.railway.app/ .
