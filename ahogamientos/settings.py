@@ -25,7 +25,12 @@ SECRET_KEY = 'django-insecure-p@hmtdr)@jdx264c$r8p*gfmr#x*v@hdhy7dd1dovod4cxb00d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "localhost",
+    "127.0.0.1",
+    "prevencion-ahogamientos.up.railway.app",
+]
+
 
 
 # Application definition
