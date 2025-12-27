@@ -1,4 +1,4 @@
-<img width="1483" height="784" alt="image" src="https://github.com/user-attachments/assets/dd6060fb-3db0-44c9-ac26-ce78d7ccaa7b" /># Hito 5: Despliegue de la aplicación en un IaaS o PaaS
+# Hito 5: Despliegue de la aplicación en un IaaS o PaaS
 
 ## Descripción del hito
 
